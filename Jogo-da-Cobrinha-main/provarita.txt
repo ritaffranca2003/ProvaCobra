@@ -1,0 +1,23 @@
+Rita de Cassia franca faria = 6322054
+
+CSS 
+Mudei a altura e a largura ta tag canvas 
+
+no H1 alterei para cor preta 
+alinhei o texto para o centro 
+
+coloquei o fundo da tela canvas como   
+background-color: pink;
+
+JS
+
+Alterei a velocidade da cobra (setTimeout(update, 1000 / 70);})
+mudei a cor dela para black
+coloquei o for para percorrer a posição da cobra no vetor
+
+ for (var i = snake.length - 1; i > 1; i--) {
+      snake[i].x = snake[i - 1].x;
+      snake[i].y = snake[i - 1].y;
+
+    } 
+

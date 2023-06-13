@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: white;
+}
+
+
+
+h1 {
+
+  text-align: center;
+  margin: 30px;
+  color: black;
+  font-size: 100px;
+}
+
+#gameCanvas {
+  border: 1px solid white;
+  background-color: pink;
+}
+
+
+
